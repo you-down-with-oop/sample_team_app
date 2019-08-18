@@ -1,5 +1,5 @@
 class Api::ExamplesController < ApplicationController
   def index
-    render json: { message: "Yo, test hello" }
+    render json: { message: "Hello from Peter" }
   end
 end
