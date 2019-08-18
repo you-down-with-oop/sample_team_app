@@ -1,0 +1,2 @@
+class TehillaController < ApplicationController
+end
