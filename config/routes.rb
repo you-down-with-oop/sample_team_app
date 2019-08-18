@@ -5,5 +5,6 @@ Rails.application.routes.draw do
     get "/outof" => "out_of#index"
     get "/tehilla" => "tehilla#index"
     get "/examples" => "examples#index"
+    get "/messages" => "messages#index"
   end
 end
